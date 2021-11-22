@@ -636,13 +636,15 @@ footer button {
 .backhome button {
   background-color: green;
   color: #ffffff;
-  /* margin-top: 50px; */
   border: 0;
   font-size: 14px;
   padding: 6px;
   font-family: Roboto;
   cursor: pointer;
-  /* margin-left: 35%; */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 
@@ -669,18 +671,10 @@ footer button {
   
 }
 
-/* @media screen and (max-width: 375px) {
+ @media screen and (max-width: 768px) {
   .box p {
-    /* left: 50px; */
-    /* text-align: center;
+    font-size: 14px;
+    top: 50%;
+    left: 3%;
   }
-} */
-
-/* @media screen and (max-width:414px) {
-  .box p {
-    font-size: 15px;
-    text-align: center;
-  }
-  
-}  */
-  
+}
