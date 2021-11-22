@@ -364,8 +364,9 @@ footer button {
 
 .popup .popup-inner {
   position: relative;
-  margin: 5px;
-  padding: 10px;
+  /* margin: 5px; */
+  padding: 5px;
+  background-color: #495050;
 }
 
 .popup h4 {
