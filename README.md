@@ -1,4 +1,4 @@
-# Lemonade
+# Cyber Shop
 # Forum App in React & Redux + Django
 
 ```
@@ -22,7 +22,7 @@ Check out [API LIVE DEMO](https://backend-lemonade.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/Shivangitechis/Lemonade.git
+1. Git Clone https://github.com/krishnakishor13/selfdevelopment.git
 
 ```
 ```
